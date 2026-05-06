@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Trang Thai
 
-<!--
-**Trangthai-data/Trangthai-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Analyst focused on:
 
-Here are some ideas to get you started:
+- Banking Analytics
+- Financial Reporting
+- ALM & COF Optimization
+- Credit Risk Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tools & Technologies
+
+- SQL Server
+- Power BI
+- DAX
+- Excel
+
+---
+
+## 📊 Featured Projects
+
+### 🏦 Deposit Analytics & COF Optimization
+Banking analytics project focusing on funding structure, CASA ratio, and Cost of Fund optimization through scenario analysis.
+
+### 💳 Loan Cashflow & Credit Risk Analytics
+Loan cashflow and credit risk analytics dashboard using SQL & Power BI to analyze interest income, outstanding balance, and portfolio risk.
+
+### 📊 Deposit Reporting & ALM Dashboard
+ALM analytics dashboard focusing on deposit structure, CASA ratio, COF, and NIM impact analysis.
+
+---
+
+## 📫 Connect with Me
+
+- GitHub: https://github.com/Trangthai-data
