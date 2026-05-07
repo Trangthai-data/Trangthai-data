@@ -1,13 +1,6 @@
 # 👋 Hi, I'm Trang
 
-🎯 Data Analyst focused on Banking Analytics, Financial Reporting, SQL, and Power BI.
-
-Currently focusing on:
-
-- Banking Analytics
-- Financial Reporting & Dashboarding
-- ALM & Funding Structure Analysis
-- Credit Risk & Loan Portfolio Analytics
+Data Analyst focused on Banking Analytics, Financial Reporting, SQL, and Power BI.
 
 ---
 
@@ -30,11 +23,11 @@ Developed a banking analytics dashboard to analyze funding structure, CASA ratio
 
 ### 💳 Loan Cashflow & Credit Risk Analytics
 
-Built a loan portfolio analytics dashboard using SQL Server and Power BI to monitor cashflow, interest income, outstanding balance, delinquency trends, and credit risk indicators.
+Built a loan portfolio analytics dashboard to monitor cashflow, interest income, outstanding balance, delinquency trends, and credit risk indicators.
 
 ### 📊 Banking Deposit Reporting & Automation
 
-Banking deposit reporting and ALM monitoring dashboard using SQL Server and Power BI.
+Developed an automated deposit reporting and ALM monitoring system using SQL Server and Power BI.
 
 ---
 
