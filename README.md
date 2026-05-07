@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Trang
 
-🎯 Data Analyst passionate about banking and financial analytics, with hands-on experience in SQL-based reporting, dashboard development, and financial data analysis.
+🎯 Data Analyst focused on Banking Analytics, Financial Reporting, SQL, and Power BI.
 
 Currently focusing on:
 
@@ -34,7 +34,7 @@ Built a loan portfolio analytics dashboard using SQL Server and Power BI to moni
 
 ### 📊 Banking Deposit Reporting & Automation
 
-Developed an end-to-end deposit reporting system using SQL Server and Power BI to automate reporting workflows, standardize deposit data, and support ALM monitoring.
+Banking deposit reporting and ALM monitoring dashboard using SQL Server and Power BI.
 
 ---
 
