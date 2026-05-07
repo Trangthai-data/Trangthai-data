@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Trang Thai
+# 👋 Hi, I'm Trang
 
 🎯 Data Analyst passionate about banking and financial analytics, with hands-on experience in SQL-based reporting, dashboard development, and financial data analysis.
 
