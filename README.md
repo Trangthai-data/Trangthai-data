@@ -1,50 +1,52 @@
 # 👋 Hi, I'm Trang Thai
 
-🎯 Data Analyst passionate about transforming data into actionable insights that support business decision-making, with a strong interest in Banking & Financial Analytics.
+🎯 Data Analyst passionate about banking and financial analytics, with hands-on experience in SQL-based reporting, dashboard development, and financial data analysis.
 
 Currently focusing on:
 
-* Banking Analytics
-* Financial Reporting & Dashboarding
-* ALM & Cost of Fund (COF) Analysis
-* Credit Risk & Loan Portfolio Analytics
+- Banking Analytics
+- Financial Reporting & Dashboarding
+- ALM & Funding Structure Analysis
+- Credit Risk & Loan Portfolio Analytics
 
 ---
 
 ## 🛠 Tools & Technologies
 
-* SQL Server
-* Power BI
-* DAX
-* Excel
+- SQL Server
+- SQL
+- Power BI
+- DAX
+- Excel
+- Python
 
 ---
 
 ## 📊 Featured Projects
 
-### 🏦 Deposit Analytics & COF Optimization
+### 🏦 Deposit Analytics & Cost of Fund Optimization
 
-Built a banking analytics dashboard to analyze funding structure, CASA ratio, and Cost of Fund optimization through scenario analysis and business-driven insights.
+Developed a banking analytics dashboard to analyze funding structure, CASA ratio, and Cost of Fund (COF) through scenario analysis and funding mix evaluation.
 
 ### 💳 Loan Cashflow & Credit Risk Analytics
 
-Developed a loan portfolio dashboard using SQL & Power BI to monitor cashflow, interest income, outstanding balance, and credit risk indicators.
+Built a loan portfolio analytics dashboard using SQL Server and Power BI to monitor cashflow, interest income, outstanding balance, delinquency trends, and credit risk indicators.
 
-### 📈 Deposit Reporting & ALM Dashboard
+### 📊 Banking Deposit Reporting & Automation
 
-Created an ALM-focused financial dashboard to evaluate deposit structure, liquidity trends, CASA ratio, COF, and NIM impact analysis.
+Developed an end-to-end deposit reporting system using SQL Server and Power BI to automate reporting workflows, standardize deposit data, and support ALM monitoring.
 
 ---
 
 ## 🌱 Currently Learning
 
-* Banking Data Modeling
-* Financial KPI Analysis
-* Advanced DAX & Power BI Storytelling
-* Risk & Performance Analytics
+- Banking Data Modeling
+- Financial KPI Analysis
+- Advanced DAX & Power BI Storytelling
+- Risk & Performance Analytics
 
 ---
 
 ## 📫 Connect with Me
 
-* GitHub: https://github.com/Trangthai-data
+- GitHub: https://github.com/Trangthai-data
