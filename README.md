@@ -1,42 +1,14 @@
 # 👋 Hi, I'm Trang
 
-Data Analyst focused on Banking Analytics, Financial Reporting, SQL, and Power BI.
+Data Analyst focused on Banking Analytics, SQL, Power BI, and Financial Reporting.
 
----
+## Featured Projects
+- Deposit Analytics & Cost of Fund Optimization
+- Loan Cashflow & Credit Risk Analytics
+- Banking Deposit Reporting & Automation
 
-## 🛠 Tools & Technologies
-
-- SQL Server
-- SQL
-- Power BI
-- DAX
-- Excel
-- Python
-
----
-
-## 📊 Featured Projects
-
-### 🏦 Deposit Analytics & Cost of Fund Optimization
-
-Developed a banking analytics dashboard to analyze funding structure, CASA ratio, and Cost of Fund (COF) through scenario analysis and funding mix evaluation.
-
-### 💳 Loan Cashflow & Credit Risk Analytics
-
-Built a loan portfolio analytics dashboard to monitor cashflow, interest income, outstanding balance, delinquency trends, and credit risk indicators.
-
-### 📊 Banking Deposit Reporting & Automation
-
-Developed an automated deposit reporting and ALM monitoring system using SQL Server and Power BI.
-
----
-
-## 🌱 Currently Learning
-
-- Banking Data Modeling
-- Financial KPI Analysis
-- Advanced DAX & Power BI Storytelling
-- Risk & Performance Analytics
+## Tools
+SQL Server • Power BI • DAX • Excel • Python
 
 ---
 
